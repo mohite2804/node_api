@@ -1,0 +1,7 @@
+npm init
+npm i express mysql cors body-parser bcrypt jsonwebtoken passport passport-local passport-jwt 
+npm i nodemon -g
+
+
+npm i bcrypt jsonwebtoken passport passport-local passport-jwt
+
